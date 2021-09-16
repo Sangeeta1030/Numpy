@@ -8,8 +8,8 @@ Highlight Topics are the following:-
 - multi dimensional array
 - list convert into array
 - Array Manipulation 
- *reshape
- * resize
+  *reshape
+  * resize
  * stack
  * vstack
  * hstack
