@@ -8,18 +8,18 @@ Highlight Topics are the following:-
 -multi dimensional array
 -list convert into array
 -Array Manipulation 
-   *reshape
-   *resize
-   *stack
-   *vstack
-   *hstack
-   *Row_stack 
-   *Column_stack
-   *transpose
-   *concatenate
-   *Split
-   *hsplit 
-   *vsplit
-   *insert
-   *append
-  *delete
+ *reshape
+ *resize
+ *stack
+ *vstack
+ *hstack
+ *Row_stack 
+ *Column_stack
+ *transpose
+ *concatenate
+ *Split
+ *hsplit 
+ *vsplit
+ *insert
+ *append
+ *delete
