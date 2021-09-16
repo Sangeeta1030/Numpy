@@ -4,10 +4,10 @@ Here in this Numpy file, i am going to cover the numpy's important topics which 
 
 Highlight Topics are the following:-
 
--Array 1D,2D,3D
--multi dimensional array
--list convert into array
--Array Manipulation 
+- Array 1D,2D,3D
+- multi dimensional array
+- list convert into array
+- Array Manipulation 
  *reshape
  *resize
  *stack
