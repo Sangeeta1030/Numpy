@@ -8,48 +8,47 @@ Highlight Topics are the following:-
 - multi dimensional array
 - list convert into array
 - Array Manipulation 
-  *reshape
+  * reshape
   * resize
- * stack
- * vstack
- * hstack
- * Row_stack 
- * Column_stack
- * transpose
- * concatenate
- * Split
- * hsplit 
- * vsplit
- * insert
- * append
- * delete
+  * stack
+  * vstack
+  * hstack
+  * Row_stack 
+  * Column_stack
+  * transpose
+  * concatenate
+  * Split
+  * hsplit 
+  * vsplit
+  * insert
+  * append
+  * delete
 - Array Creation 
- * identity ()
- * Diag()
- * Eye()
- * Ones()
- * Zeros()
- * Full()
- * Copy()
- * Arange()
- * Linspace()
-
+  * identity ()
+  * Diag()
+  * Eye()
+  * Ones()
+  * Zeros()
+  * Full()
+  * Copy()
+  * Arange()
+  * Linspace()
 - Arithmetic Operators in numpy     +  ,-  ,  /,  *  ,  //,  %
 - Statistics Aggregation 
- * SUM()
- * SUBSTRACT()
- * MULTIPLY()
- * DIVIDE()
- * MIN()
- * MAX()
- * ARGMAX()
- * ARGMIN()
- * SQUARE()
- * SQRT()
- * CUMSUM()
- * CUMPRODUCT()
- * MEAN()
- * MEDIAN()
+  * SUM()
+  * SUBSTRACT()
+  * MULTIPLY()
+  * DIVIDE()
+  * MIN()
+  * MAX()
+  * ARGMAX()
+  * ARGMIN()
+  * SQUARE()
+  * SQRT()
+  * CUMSUM()
+  * CUMPRODUCT()
+  * MEAN()
+  * MEDIAN()
 - Random Number
 - Common Attribute of numpy like ndarray  ndim,size,shape
 - matrix convert into list
